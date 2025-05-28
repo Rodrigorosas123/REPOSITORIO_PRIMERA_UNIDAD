@@ -1,0 +1,31 @@
+# 🎓 REPOSITORIO DE ACTIVIDADES - PRIMERA UNIDAD  
+### 📘 Curso de Estadística Computacional con R
+
+Bienvenido/a al repositorio oficial de la **Primera Unidad Académica**, desarrollado como parte del curso de **Estadística Computacional**. Aquí encontrarás una colección estructurada de actividades prácticas, aplicaciones interactivas en **Shiny**, generadores de números aleatorios, análisis de datos cualitativos/cuantitativos y reportes estadísticos.
+
+---
+
+## 📂 ESTRUCTURA DEL REPOSITORIO
+
+| Nº | Archivo `.zip`                                      | Contenido Principal                                           |
+|----|-----------------------------------------------------|---------------------------------------------------------------|
+| 1  | `ACTIVIDAD 001_Clase 2 - Actividad de Instalación.zip` | Instalación y configuración del entorno de trabajo en R      |
+| 2  | `ACTIVIDAD 002_Clase 2 - Actividad de Clase.zip`       | Práctica guiada con datos y visualización                    |
+| 3  | `ACTIVIDAD 003_App_Shiny_ANOVA_T.zip`                  | Aplicación Shiny: comparación de ANOVA y prueba t            |
+| 4  | `ACTIVIDAD 004_Reports Anova.zip`                      | Reportes automatizados en PDF y HTML                         |
+| 5  | `ACTIVIDAD 005_App_Datos_Cuali_Cuanti.zip`             | App para análisis de variables cualitativas y cuantitativas  |
+| 6  | `ACTIVIDAD 006_Librería R - Generador Aleatorio.zip`   | Librería para simulación: congruencia lineal y aleatoriedad  |
+| 7  | `ACTIVIDAD 007_Presentación Artículos.zip`             | Análisis y presentación de artículos científicos              |
+| 8  | `ACTIVIDAD 010_Comparaciones.zip`                      | Comparaciones estadísticas con visualización                 |
+
+---
+
+## ⚙️ REQUISITOS DEL ENTORNO
+
+Antes de comenzar, asegúrate de contar con lo siguiente:
+
+- ✅ [R](https://cran.r-project.org/) (v4.0 o superior)
+- ✅ [RStudio](https://posit.co/products/open-source/rstudio/)
+- ✅ Paquetes de R necesarios:
+  ```r
+  install.packages(c("shiny", "dplyr", "ggplot2", "readr", "tidyr", "knitr", "rmarkdown"))
